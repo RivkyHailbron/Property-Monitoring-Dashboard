@@ -5,10 +5,9 @@ url = "https://housingapp.lacity.org/reportviolation/Pages/PropAtivityCases?APN=
 
 driver = start_driver()
 try:
-    print("Scraping data... please wait.")
+    print("Starting data collection...")
     data = scrape_property_data(driver, url)
 
-    # שמירה למבנה נתונים מסודר
     output = {
         "property_apn": "2654002037",
         "inspections": data
@@ -17,6 +16,6 @@ try:
     with open("inspections_data.json", "w", encoding="utf-8") as f:
         json.dump(output, f, indent=4, ensure_ascii=False)
 
-    print(f"Successfully scraped {len(data)} cases.")
+    print(f"Successfully saved {len(data)} records.")
 finally:
     close_driver(driver)

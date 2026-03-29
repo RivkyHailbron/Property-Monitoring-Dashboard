@@ -1,0 +1,669 @@
+{
+    "property_apn": "2654002037",
+    "inspections": [
+        {
+            "case_type": "Complaint",
+            "case_number": "11412",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "05/11/2005",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "14785",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "08/04/2005",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "14786",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "05/19/2005",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "22038",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "09/06/2005",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "27358",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "09/02/2005",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "31478",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/06/2006",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "104607",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "03/05/2007",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "162489",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "11/28/2007",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "201097",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "07/28/2008",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "233539",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "02/04/2009",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "310537",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "08/03/2010",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "380225",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "03/02/2012",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "436489",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/07/2013",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "452707",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "10/01/2013",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "453597",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "10/15/2013",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "520004",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "05/15/2015",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "615172",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/21/2017",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "626409",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "10/05/2017",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "635099",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "08/17/2017",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "635872",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/05/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "644248",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/06/2017",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "655992",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/05/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "661551",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "05/03/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "663641",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "03/14/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "698135",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/09/2019",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "698581",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "05/14/2019",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "698582",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/04/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "699546",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "04/03/2019",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700025",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/18/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700027",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700028",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700029",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700031",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700032",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700033",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700034",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700035",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700036",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700037",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/13/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "700716",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/17/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "747255",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/10/2019",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "750439",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/28/2020",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "761752",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "04/27/2020",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "784228",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/03/2021",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "802709",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/12/2022",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "840302",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "11/02/2023",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "841265",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/22/2023",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "841606",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/27/2022",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "851565",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "05/09/2023",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "851770",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "08/08/2023",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "851771",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "03/28/2023",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "851809",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "03/28/2023",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "857190",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/08/2023",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "863432",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/24/2024",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "896054",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "04/23/2024",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "900314",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "911939",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/16/2025",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "911971",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "09/18/2024",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "940445",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "12/23/2025",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "942425",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "07/02/2025",
+            "is_new": false
+        },
+        {
+            "case_type": "Complaint",
+            "case_number": "959397",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/07/2026",
+            "is_new": false
+        },
+        {
+            "case_type": "Systematic Code Enforcement Program",
+            "case_number": "312902",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "11/15/2010",
+            "is_new": false
+        },
+        {
+            "case_type": "Systematic Code Enforcement Program",
+            "case_number": "504876",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "05/11/2015",
+            "is_new": false
+        },
+        {
+            "case_type": "Systematic Code Enforcement Program",
+            "case_number": "711058",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "10/03/2019",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "14785",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "02/14/2006",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "22038",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "02/14/2006",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "504876",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "09/17/2015",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "626409",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "01/05/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "661551",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "08/03/2018",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "699546",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/24/2019",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "841265",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/16/2025",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "900314",
+            "status": "Closed ✅",
+            "urgency": "Low",
+            "date_closed": "06/09/2025",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "911939",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Case Management",
+            "case_number": "940445",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Hearing",
+            "case_number": "14785",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Hearing",
+            "case_number": "22038",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Hearing",
+            "case_number": "504876",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Hearing",
+            "case_number": "626409",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Hearing",
+            "case_number": "661551",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Property Management Training Program",
+            "case_number": "504876",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Property Management Training Program",
+            "case_number": "841265",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Property Management Training Program",
+            "case_number": "900314",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        },
+        {
+            "case_type": "Property Management Training Program",
+            "case_number": "911939",
+            "status": "Open 🔴",
+            "urgency": "High 🚨",
+            "date_closed": "Pending",
+            "is_new": false
+        }
+    ]
+}
